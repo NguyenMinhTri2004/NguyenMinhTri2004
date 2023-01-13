@@ -1,3 +1,4 @@
+<img src="https://static.ybox.vn/2018/2/26/56c50e72-1adc-11e8-a7f1-56c566ee3692.gif"/>
 <h1 align="center">Hi 👋, I'm Minh Tri</h1>
 
 # 💫About Me :

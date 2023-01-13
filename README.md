@@ -1,13 +1,16 @@
-<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
+
 <h1 align="center">Hi 👋, I'm Minh Tri</h1>
-<p align="center">
-  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+👨‍💻 About Me :
+<p align="left">
+  <h3 align="left">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
 
 
-- ✍ I'm a student of: [Sai Gon University ](https://sgu.edu.vn/) (SGU).
+ - ✍ I'm a student of: [Sai Gon University ](https://sgu.edu.vn/) (SGU).
+ - 🌱 I’m a Web Developer
+ - 🔭 I’m currently studying at SaiGon University as a Software Engineer and contributing to Frontend and Backend for building web applications.
+ - 🌱 Exploring Technical, Tools, ...
 
-- 🌱 I’m a Web Developer
 
 <br />
 
@@ -30,7 +33,7 @@
   </a>
 </p>
 
-## Skills:
+## 🛠 Programming Skills:
 <p align="left">
   <img src="https://img.icons8.com/color/48/null/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/48/null/css3.png"/>

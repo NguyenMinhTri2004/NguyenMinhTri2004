@@ -25,12 +25,16 @@
   <a href="https://www.facebook.com/oc.nguyen.7545" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://github.com/TienNHM" alt="Github">
+  <a href="https://github.com/NguyenMinhTri2004" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
   <a href="mailto:nguyenminhtri.vnpt2@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
+  <a href="https://www.instagram.com/conhoang2002/" alt="Instagram">
+     <img src="https://img.icons8.com/fluency/48/null/instagram-new.png"/>
+  </a>
+ 
 </p>
 
 ## 🛠 Programming Skills:

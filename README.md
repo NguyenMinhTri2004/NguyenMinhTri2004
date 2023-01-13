@@ -59,6 +59,8 @@
   <img src="https://img.icons8.com/color/48/null/figma--v1.png"/>
   <img src="https://img.icons8.com/color/48/null/drupal.png"/>
   <img src="https://img.icons8.com/ios/50/null/wordpress--v1.png"/>
+  <img src="https://img.icons8.com/ios-filled/50/null/jquery.png"/>
+  <img src="https://img.icons8.com/color/48/null/bootstrap.png"/>
 </p>
 
 ## Activities:

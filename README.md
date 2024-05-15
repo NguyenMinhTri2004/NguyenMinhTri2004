@@ -2,11 +2,10 @@
 <h1 align="center">Hi 👋, I'm Minh Tri</h1>
 
 # 💫About Me :
-✍ I'm a student of [Saigon Of University](https://sgu.edu.vn/) (SGU).
 
 🌱 I’m a Web Developer
 
-🔭 I’m currently studying at SaiGon University as a Software Engineer and contributing to Frontend and Backend for building web applications
+🔭 I’m currently working as a Software Engineer and contributing to Frontend and Backend for building web applications
 
 🌱 Exploring Technical, Tools, ...
 

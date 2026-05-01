@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About
 
-3+ years shipping production systems across the full stack. I care about throughput, reliability, and clean architecture — the kind of engineering where the details actually matter.
+4+ years shipping production systems across the full stack. I care about throughput, reliability, and clean architecture — the kind of engineering where the details actually matter.
 
 Currently building enterprise-scale document management for global clinical trials. Previously: high-traffic e-commerce, Web3 platforms, and a hotel booking system designed for 30,000+ req/s.
 
@@ -103,15 +103,11 @@ Zero-loss transactions via RabbitMQ + Momo payment integration. Horizontal scali
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Snake
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=NguyenMinhTri2004&theme=react&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=NguyenMinhTri2004&theme=react&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenMinhTri2004&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00b4d8&text_color=ffffff)
+![snake](https://github.com/NguyenMinhTri2004/NguyenMinhTri2004/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 

@@ -61,7 +61,7 @@ Currently building enterprise-scale document management for global clinical tria
 ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-## Activities:
+##⚡Activities:
 
 <table style="width:100%;">
   <tr>

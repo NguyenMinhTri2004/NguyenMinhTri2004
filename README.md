@@ -1,3 +1,17 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Nguy%E1%BB%85n%20Minh%20Tr%C3%AD&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Ho%20Chi%20Minh%20City&descAlignY=58&descSize=18&descColor=90e0ef)
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Java+%7C+Go+%7C+React+%7C+Next.js;Kafka+%7C+Redis+%7C+Elasticsearch;Microservices+%7C+Docker+%7C+Kubernetes;Building+systems+that+don't+break+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nguyen-minh-tri-a6a003262/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-minhtridev04.com-black?style=flat&logo=vercel)](https://minhtridev04.com)
+[![Gmail](https://img.shields.io/badge/Gmail-nguyenminhtri.vnpt2@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nguyenminhtri.vnpt2@gmail.com)
+
+</div>
+
 <img src="https://static.ybox.vn/2018/2/26/56c50e72-1adc-11e8-a7f1-56c566ee3692.gif"/>
 <h1 align="center">Hi 👋, I'm Minh Tri</h1>
 

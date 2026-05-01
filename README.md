@@ -80,7 +80,7 @@ Real-time room availability via Socket.io + Redis Pub/Sub. Geospatial hotel sear
 Zero-loss transactions via RabbitMQ + Momo payment integration. Horizontal scaling with Docker + Kubernetes.
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=NguyenMinhTri2004&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=NguyenMinhTri2004&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NguyenMinhTri2004&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenMinhTri2004&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 

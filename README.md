@@ -1,13 +1,17 @@
 <img src="https://static.ybox.vn/2018/2/26/56c50e72-1adc-11e8-a7f1-56c566ee3692.gif"/>
 <h1 align="center">Hi 👋, I'm Minh Tri</h1>
 
-# 💫About Me :
+## About
 
-🌱 I’m a Web Developer
+3+ years shipping production systems across the full stack. I care about throughput, reliability, and clean architecture — the kind of engineering where the details actually matter.
 
-🔭 I’m currently working as a Software Engineer and contributing to Frontend and Backend for building web applications
+Currently building enterprise-scale document management for global clinical trials. Previously: high-traffic e-commerce, Web3 platforms, and a hotel booking system designed for 30,000+ req/s.
 
-🌱 Exploring Technical, Tools, ...
+- 🏆 Key Feature Award · ICON Solar 2025
+- 🥇 First Prize · LIKELION Hackathon 2024
+- 🥈 Second Prize · SGU Hackathon 2023
+- 📖 B.Tech Information Technology · Saigon University · GPA 3.5
+- 🌍 TOEIC 880/990
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/oc.nguyen.7545) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/conhoang2002/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nguyen-minh-tri-a6a003262/) 

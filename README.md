@@ -99,3 +99,4 @@ Zero-loss transactions via RabbitMQ + Momo payment integration. Horizontal scali
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NguyenMinhTri2004&icon=1&color=0)](https://visitcount.itsvg.in)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer)

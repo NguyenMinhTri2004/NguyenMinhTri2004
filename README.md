@@ -6,9 +6,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nguyen-minh-tri-a6a003262/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-minhtridev04.com-black?style=flat&logo=vercel)](https://minhtridev04.com)
-[![Gmail](https://img.shields.io/badge/Gmail-nguyenminhtri.vnpt2@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nguyenminhtri.vnpt2@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/oc.nguyen.7545) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/conhoang2002/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nguyen-minh-tri-a6a003262/) 
 
 </div>
 
@@ -23,10 +21,8 @@ Currently building enterprise-scale document management for global clinical tria
 - 🥈 Second Prize · SGU Hackathon 2023
 - 📖 B.Tech Information Technology · Saigon University · GPA 3.5
 - 🌍 TOEIC 880/990
-  
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/oc.nguyen.7545) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/conhoang2002/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nguyen-minh-tri-a6a003262/) 
 
+  
 ## 🛠️ Tech Stack
 
 **🖥️ Languages**

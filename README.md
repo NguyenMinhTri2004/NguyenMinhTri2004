@@ -15,13 +15,6 @@
 3+ years shipping production systems across the full stack. I care about throughput, reliability, and clean architecture — the kind of engineering where the details actually matter.
 
 Currently building enterprise-scale document management for global clinical trials. Previously: high-traffic e-commerce, Web3 platforms, and a hotel booking system designed for 30,000+ req/s.
-
-- 🏆 Key Feature Award · ICON Solar 2025
-- 🥇 First Prize · LIKELION Hackathon 2024
-- 🥈 Second Prize · SGU Hackathon 2023
-- 📖 B.Tech Information Technology · Saigon University · GPA 3.5
-- 🌍 TOEIC 880/990
-
   
 ## 🛠️ Tech Stack
 
